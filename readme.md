@@ -1,4 +1,4 @@
-# Project Name
+# CQRS Command And Query Item Templates for Visual Studio
 
 ## Introduction
 
